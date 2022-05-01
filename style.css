@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+}
+
+/* SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh */
+
+/* SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh */
+.container {
+    width: 1000px;
+    height: 700px;
+    position: relative;
+    outline: 10px solid #ff3030;
+    overflow: hidden;
+}
+img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: contain;
+}
+/* SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh */
+
+/* SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
+/* Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh */
